@@ -1,0 +1,26 @@
+[
+  {
+    "value": "sports",
+    "synonyms": [
+      "sports",
+      "soccer",
+      "football",
+      "basketball",
+      "hockey"
+    ]
+  },
+  {
+    "value": "weather",
+    "synonyms": [
+      "weather",
+      "outside",
+      "temperature"
+    ]
+  },
+  {
+    "value": "news",
+    "synonyms": [
+      "news"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "d36a06ea-abf5-4ed4-9c27-b2bd230b2c54",
+    "data": [
+      {
+        "text": "Whats new in the ",
+        "userDefined": false
+      },
+      {
+        "text": "news",
+        "alias": "conversationTypes",
+        "meta": "@conversationTypes",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7201141e-28ae-40cd-9b72-ee7cce291611",
+    "data": [
+      {
+        "text": "Whats new in ",
+        "userDefined": false
+      },
+      {
+        "text": "sports",
+        "alias": "conversationTypes",
+        "meta": "@conversationTypes",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "29a6bab4-e860-420a-9576-a9ef5d136545",
+  "name": "conversationStart",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9532c9a7-5fc1-4af4-9272-7f46aa391654",
+          "dataType": "@conversationTypes",
+          "name": "conversationTypes",
+          "value": "$conversationTypes",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Ok, lets talk about $conversation-starters!",
+            "You want to talk about $conversation-starters? Sure!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515024605,
+  "fallbackIntent": false,
+  "events": []
+}
